@@ -6,4 +6,5 @@
     <string name="txt_detail_title">txt_detail_title_transition</string>
     <string name="txt_detail_desc">txt_detail_desc_transition</string>
     <string name="txt_detail_price">txt_detail_price_transition</string>
+    <string name="pay">Pagar</string>
 </resources>
