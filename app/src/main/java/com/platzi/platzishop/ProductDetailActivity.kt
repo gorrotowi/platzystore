@@ -20,10 +20,11 @@ class ProductDetailActivity : AppCompatActivity() {
         intent?.extras?.let {
             txtProductTitle.text = it.getString("title")
             txtProductDesc.text = it.getString("desc")
-            txtProductPrice.text = "$${it.getDouble("price")}"
+//            txtProductPrice.text = "$${it.getDouble("price")}"
+            txtProductPrice.text = "$ ${String.format("%.2f", it.getDouble("price"))}"
         }
 
-        fabProduct.setOnClickListener {
+        btnDetailBuy.setOnClickListener {
             startActivity<CartActivity>()
         }
 

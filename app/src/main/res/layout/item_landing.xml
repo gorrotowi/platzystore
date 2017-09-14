@@ -19,6 +19,7 @@
             android:layout_height="100dp"
             android:scaleType="centerCrop"
             android:src="@drawable/shoe_placeholder"
+            android:transitionName="@string/img_item_cart"
             tools:ignore="ContentDescription" />
 
         <LinearLayout

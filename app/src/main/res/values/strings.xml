@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">PlatziShop</string>
     <string name="lorem_ipsum_extend">A business big enough that it could be listed on the NASDAQ goes belly up. Disappears! It ceases to exist without me. No, you clearly don\'t know who you\'re talking to, so let me clue you in. I am not in danger, Skyler. I AM the danger! A guy opens his door and gets shot and you think that of me? No. I am the one who knocks!   Did he speak to you? Would you just answer? What things? What people? A month ago, Gus was trying to kill both of us. And now, he pulls you out of the lab and employs you as… what… a, an assistant gunman? A tough guy? Does that make any sense to you? </string>
+    <string name="img_item_cart">img_item_cart_transition</string>
+    <string name="buy">Comprar</string>
+    <string name="txt_detail_title">txt_detail_title_transition</string>
+    <string name="txt_detail_desc">txt_detail_desc_transition</string>
+    <string name="txt_detail_price">txt_detail_price_transition</string>
 </resources>
